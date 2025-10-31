@@ -1,5 +1,5 @@
 # Website-Project
-Welcome to Project 2 1600 students. Now this project will be nothing like you have seen before. We will be working with a few important technologies that are seen in most corporate tech stacks:
+Welcome to Project 2! Now this project will be nothing like you have seen before. We will be working with a few important technologies that are seen in most corporate tech stacks:
 - Typescript
 - Firebase Authentication
 - Next.js Dev environment
@@ -89,13 +89,15 @@ We reccomend that everyone at least check out the websites above, and highly enc
 
 In Milestone 2 you are implementing user management using firebase as an authentication service. 
 
-To do this, you will create a firebase account, and pull your web API file into your project. Then you will need to setup your sign in and create user functions. This portion will teach you the beginnings of what it means to add authentication to any projects you will build in the future.
+To do this, you will create a firebase account and pull your web API file into your project. Then you will need to setup your sign in and create user functions (see documentation!!). This portion will teach you the beginnings of what it means to add authentication to any projects you will build in the future.
 
-By the end of this milestone, you should display the signed in user information on your webpage behind sign-in. In milestone 3 you will replace this with your own content!
+By the end of this milestone, you should print the user in the console. In milestone 3 you will implement your own content behind the sign-in page!
 
 ## Milestone 3: Your actual website page - 40 Points
 
-As the milestone says, you have finally added authentication to your project. Now that you can create a user and sign in, you have to be able to display something for your users, e.g, at least one page behind the login and create user. The goal of this milestone is to encourage creativity, and design whatever you would like to be on your final page. It could be a presentation of a topic, a local game made in typescript, your resume page, etc. This part of the project is meant to show you that with the right tools you can create anything you put your mind to. You will be graded based on effort and total understanding of the content. This would be a good time to put the Shadcn UI and React Bits components to use, and this could be the start to your own portfolio website to impress recruiters. If you would like to make more than one final page, you are welcome to do so.
+By this point, you have added user creation and authentication to your project. Now that you can create a user and sign in, you have to be able to display something for your users, e.g, at least one page behind the login and create user. The goal of this milestone is to encourage creativity, and design whatever you would like to be on your final page. It could be a presentation of a topic, a local game made in typescript, your resume page, etc. This part of the project is meant to show you that with the right tools you can create anything you put your mind to. After milestone 2, you will meet with your lab TAs to pitch and get feedback on your project idea(s). 
+
+You will be graded based on effort and total understanding of the content. This would be a good time to put the Shadcn UI and React Bits components to use, and this could be the start to your own portfolio website to impress recruiters. If you would like to make more than one final page, you are welcome to do so.
 
 **This portion will be graded based on a presentation of your final page, and the ability to explain whats going on to fellow classmates during your presentation.**
 
