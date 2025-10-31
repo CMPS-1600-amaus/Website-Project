@@ -91,7 +91,7 @@ In Milestone 2 you are implementing user management using firebase as an authent
 
 To do this, you will create a firebase account, and pull your web API file into your project. Then you will need to setup your sign in and create user functions. This portion will teach you the beginnings of what it means to add authentication to any projects you will build in the future.
 
-- Display User Information on your final page and nothing else until milestone 3
+By the end of this milestone, you should display the signed in user information on your webpage behind sign-in. In milestone 3 you will replace this with your own content!
 
 ## Milestone 3: Your actual website page - 40 Points
 
