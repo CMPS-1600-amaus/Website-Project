@@ -124,3 +124,16 @@ You will be graded based on effort and total understanding of the content. This 
 [react]: https://react.dev/learn
 [firebase]: https://firebase.google.com/docs/auth/web/start
 [tailwindcss]: https://tailwindcss.com/docs/styling-with-utility-classes
+
+# Epilogue
+
+By the end of this project, you will have created your own web app! 
+
+Technology moves fast, and we are constantly learning new skills, tools, and
+frameworks. While we never covered most of the specific technologies you needed
+to build your app, we hope you've seen that the skills you have been learning in
+your CS courses have translated to let you pick up and effectively use new
+technologies. 
+
+Having now created your own web app. What else can you do? You are limited only
+by your creativity and your will.
