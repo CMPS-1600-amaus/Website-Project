@@ -74,9 +74,9 @@ Please answer the following questions. **Enter your answers in answers.md**
 7. What do all the tags in our layout and sign in page htmls mean, and why is their order important?
 8. Please give a brief summary of each of the 4 major technologies above. What are they, and how they are important to a website?
 
-![Milestone 1 SS](/Website-Project/signIn.png "Signin")
+![Milestone 1 SS](/signIn.png "Signin")
 
-![Milestine 1 SS for Create page](/Website-Project/createUser.png "Create User")
+![Milestine 1 SS for Create page](/createUser.png "Create User")
 
 # Milestone 2: Connecting Firebase - 30 Points
 
@@ -84,7 +84,7 @@ As the second part of this milestone, you will implement the UI for creating use
 
 > In milestone 2 you will implement user creation where you will connect your front end to your back end authenticator in firebase. 
 
-![Milestone 2 SS](/Website-Project/firebase.png "Firebase Authentication")
+![Milestone 2 SS](/firebase.png "Firebase Authentication")
 
 # Milestone 3: Your actual website page - 40 Points
 
