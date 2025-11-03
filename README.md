@@ -37,7 +37,11 @@ npm run dev
 
 This command compiles and starts your project. Once compiled, open [http://localhost:3000](http://localhost:3000) in a browser to see it.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+After loading the project in your browser, you should see the sign in page:
+
+![Milestone 1 SS](figures/signIn.png "Signin")
+
+You can edit this page by modifying `app/page.tsx`. It will auto-update live, i.e., as you edit the file!
 
 ### Installing specific packages
 
@@ -49,7 +53,7 @@ npm install name-of-package@version-of-package
 
 Normally the default for version is the newest long term support version of the packages. In most cases that is perfectly fine. Once you have installed your packages you can proceed to milestone 1. 
 
-## Milestone 1: Reading Documentation and Building User Creation - 30 Points 
+## Milestone 1: Documentation Orientation and User Creation UI - 30 Points 
 This milestone primarily focuses on 4 major technologies that will be important to understand for this project. In this milestone, you will familiarize yourself with these technologies. The following documentation links will be neccessary for milestone 1. 
 - [nextjs]
 - [react]
@@ -74,19 +78,18 @@ Please answer the following questions. **Enter your answers in answers.md**
 7. What do all the tags in our layout and sign in page htmls mean, and why is their order important?
 8. Please give a brief summary of each of the 4 major technologies above. What are they, and how they are important to a website?
 
-![Milestone 1 SS](/signIn.png "Signin")
-
-![Milestine 1 SS for Create page](/createUser.png "Create User")
-
-# Milestone 2: Connecting Firebase - 30 Points
+### User Creation UI (15 points)
 
 As the second part of this milestone, you will implement the UI for creating users. You can use a similar form as your Sign In page. In this milestone, you are not implementing the actual creation of the users, just the creation of the create user UI. 
 
-> In milestone 2 you will implement user creation where you will connect your front end to your back end authenticator in firebase. 
+For your create user UI we recommend you refer to Tailwind Documentation and add your own stylistic flair to it. You are also welcome to change up the UI for your sign in (this will be great practice for milestone 3!). 
 
-![Milestone 2 SS](/firebase.png "Firebase Authentication")
+By the end of this milestone, you should have the UI implemented for creating
+users:
 
-# Milestone 3: Your actual website page - 40 Points
+![Milestine 1 SS for Create page](figures/createUser.png "Create User")
+
+> In milestone 2 you will implement actual user creation where you will connect your front end to your back end authenticator in firebase. 
 
 ### Web Design Examples (Cool UI Websites!)
 - [reactbits](https://reactbits.dev/)
@@ -104,13 +107,17 @@ To do this, you will create a firebase account and pull your web API file into y
 
 By the end of this milestone, you should print the user in the console. In milestone 3 you will implement your own content behind the sign-in page!
 
+![Milestone 2 SS](figures/firebase.png "Firebase Authentication")
+
 ## Milestone 3: Your actual website page - 40 Points
 
-By this point, you have added user creation and authentication to your project. Now that you can create a user and sign in, you have to be able to display something for your users, e.g, at least one page behind the login and create user. The goal of this milestone is to encourage creativity, and design whatever you would like to be on your final page. It could be a presentation of a topic, a local game made in typescript, your resume page, etc. This part of the project is meant to show you that with the right tools you can create anything you put your mind to. After milestone 2, you will meet with your lab TAs to pitch and get feedback on your project idea(s). 
+At this point, you have added user creation and authentication to your project. Now that you can create a user and sign in, you will implement something to display to your users, e.g, at least one page behind the login and create user. The goal of this milestone is to encourage creativity, and design whatever you would like to be on your final page. It could be a presentation of a topic, a local game made in typescript, your resume page, etc. This part of the project is meant to show you that with the right tools you can create anything you put your mind to. 
+
+> After milestone 2, you will meet with your lab TAs to pitch and get feedback on your project idea(s). 
 
 You will be graded based on effort and total understanding of the content. This would be a good time to put the Shadcn UI and React Bits components to use, and this could be the start to your own portfolio website to impress recruiters. If you would like to make more than one final page, you are welcome to do so.
 
-**This portion will be graded based on a presentation of your final page, and the ability to explain whats going on to fellow classmates during your presentation.**
+**This portion will be graded based on a presentation of your project to the class, and the ability to explain whats going on to fellow classmates during your presentation.**
 
 ### Milestone 3 Presentation Guide Lines
 - "Lightning Presentations" (4-7 minutes) 
@@ -127,7 +134,7 @@ You will be graded based on effort and total understanding of the content. This 
 
 # Epilogue
 
-By the end of this project, you will have created your own web app! 
+By the end of this project, you have created your own web app! 
 
 Technology moves fast, and we are constantly learning new skills, tools, and
 frameworks. While we never covered most of the specific technologies you needed
