@@ -119,12 +119,6 @@ You will be graded based on effort and total understanding of the content. This 
 - Q&A
 - You are done congrats!!!
 
-
-[nextjs]: https://nextjs.org/docs
-[react]: https://react.dev/learn
-[firebase]: https://firebase.google.com/docs/auth/web/start
-[tailwindcss]: https://tailwindcss.com/docs/styling-with-utility-classes
-
 # Epilogue
 
 By the end of this project, you will have created your own web app! 
@@ -137,3 +131,8 @@ technologies, even those totally unfamiliar.
 
 Having now created your own web app. What else can you do? You are limited only
 by your creativity and your will.
+
+[nextjs]: https://nextjs.org/docs
+[react]: https://react.dev/learn
+[firebase]: https://firebase.google.com/docs/auth/web/start
+[tailwindcss]: https://tailwindcss.com/docs/styling-with-utility-classes
