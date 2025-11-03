@@ -58,37 +58,7 @@ This milestone primarily focuses on 4 major technologies that will be important 
 
 A lot of this will seem very new, and it is supposed to be.  We are not looking for an in depth understanding of every concept within documentation websites. The goal of this milestone is to start to experience what it is like to navigate documentation. This is a very important skill within professional working environments, and will help you in the future when you need to pick up languages or technologies on the fly. 
 
-<<<<<<< HEAD
-**Your Tasks**: For this milestone you should read the documentation from above and be able to answer the questions below, as well as document all the files within the src/app folder. My only word of advice is to not skip reading this documentation, yes you can find these answers relatively quick. The issue will come later down the line when you have no idea what to do for any errors you get or will not be able to know what is happening within your own project. Please Answer the following questions below:
-- Why do we use useState for our email and password variables within our sign in page? 2 - Point for these
-    We use useState because we are on the client side of our project. Usestate serves as a great way to store variables across your front end without having to constantly re declare them. It allows us to set our variables within our inputs and other front end client components. 
-- What is the command to create a next.js project?
-    npx create-next-app@latest
-- What parameters do the sign in, and create user functions take in firebase?
-    They take in auth -> our authentication settings created in our firebase set up file.
-                 email -> user email
-                 password -> our users password
-- What is the benefit of using tailwind css versus regular css for front end design?
-    Tailwind css allows us to write our css directly within our components instead of having to write it within our global.css file. It also still allows for us to write native css and integrate it within tailwinds system. The biggest benefit in reality is the ability to copy and paste code blocks across front end components within your website. 
-- Why is there a use client at the top of our landing page?
-    It is there because those are our client side components. These components do not call any serverless functions or rely on any imports from any files that contain 'use server'.
-- Explain the difference between use server and use client in next.js?
-    Use server is meant for serverless and edge functions within next.js and cannot be used on use client tagged files. Use client is meant for generating client side content and meant to allow our client side page to load faster without having to wait on any serverless or edge function from next.js. 
-- What do all the tags in our layout and sign in page htmls mean, and why is their order important?
-    - Html is our parent tag where we define the language the html will be in
-    - body is our body component that sums up all the information and code within the html document
-    - main is used as our parent component that all page.tsx or any next.js page of typescript needs in order to be the child of our body component in layout
-    - div is our container notation, we usually use div as a way to seperate concerns between our containers 
-    - Label is used to create the label for our input for both email and password
-    - Input is used to take in input and has multiple different types of input
-    - Button is used to create our button and both button and input take in the onChange argument that is extremely important to how they function
-    - Link is a next.js component that is compatible within next.js type script files and is used to pre render the next page so that navigation feels instant
-    - form is used to create an html form where we can have multiple inputs and it will only be submitted when our submit button is pressed
-    - Their importance matters because the language has defined the order as fundamental and without it, it will break and not work. 
-- Please give a brief summary of each of the documentation links above and how they are important to a website? 4 - Points for each of the 4 summaries                        
-=======
 **Your Tasks**: For this milestone you should read over documentation above and use it to answer the questions below, as well build the UI for the Create User feature of your web app. 
->>>>>>> 6131481d221bc7b4a9be3326dba08c8d82de3561
 
 > **Word of advice:** Do not skip reading this documentation! Yes, you may be able to find answers to the questions below relatively quickly, but your goal should be not just to find the answers but to build up a framework of your own understanding. Without this understanding, future errors (they are inevitable) may seem unsurmountable, but with an understanding of how your project works and what is happening, and you will be able to resolve any issues that come your way. 
 
@@ -104,27 +74,19 @@ Please answer the following questions. **Enter your answers in answers.md**
 7. What do all the tags in our layout and sign in page htmls mean, and why is their order important?
 8. Please give a brief summary of each of the 4 major technologies above. What are they, and how they are important to a website?
 
-<<<<<<< HEAD
 ![Milestone 1 SS](/Website-Project/signIn.png "Signin")
 
 ![Milestine 1 SS for Create page](/Website-Project/createUser.png "Create User")
 
 # Milestone 2: Connecting Firebase - 30 Points
-=======
-### UI Create User (15 points)
->>>>>>> 6131481d221bc7b4a9be3326dba08c8d82de3561
 
 As the second part of this milestone, you will implement the UI for creating users. You can use a similar form as your Sign In page. In this milestone, you are not implementing the actual creation of the users, just the creation of the create user UI. 
 
 > In milestone 2 you will implement user creation where you will connect your front end to your back end authenticator in firebase. 
 
-<<<<<<< HEAD
 ![Milestone 2 SS](/Website-Project/firebase.png "Firebase Authentication")
 
 # Milestone 3: Your actual website page - 40 Points
-=======
-For your create user UI we recommend you refer to Tailwind Documentation and add your own stylistic flair to it. You are also welcome to change up the UI for your sign in (this will be great practice for milestone 3!). 
->>>>>>> 6131481d221bc7b4a9be3326dba08c8d82de3561
 
 ### Web Design Examples (Cool UI Websites!)
 - [reactbits](https://reactbits.dev/)
