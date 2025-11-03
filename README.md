@@ -1,5 +1,5 @@
 # Website-Project
-Welcome to Project 2! Now this project will be nothing like you have seen before. We will be working with a few important technologies that are seen in most corporate tech stacks:
+Welcome to Project 2! Now this project will be like nothing you have seen before. You will implement a web app using several important technologies seen in most corporate tech stacks:
 - Typescript
 - Firebase Authentication
 - Next.js Dev environment
@@ -7,9 +7,14 @@ Welcome to Project 2! Now this project will be nothing like you have seen before
 - Node Package Manager
 
 **Deadlines:**
+- Team Formation: Thursday November 6th
 - Milestone 1: Monday November 10th
 - Milestone 2: Monday November 17th
 - Milestone 3: December 1st - 5th (Presentations)
+
+> For this project, you may work solo or in pairs. By Thursday Nov 6th, create a
+post in our Canvas [Project 2 Team Formation](https://tulane.instructure.com/courses/2301227/discussion_topics/13808812) discussion board to list team
+members and brainstorm app ideas.
 
 ## Getting Started - Let's run the project!
 
